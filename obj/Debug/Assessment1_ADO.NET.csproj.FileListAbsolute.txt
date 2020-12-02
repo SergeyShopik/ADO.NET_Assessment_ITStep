@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Assessment1_ADO.NET\bin\Debug\Assessment1_ADO.NET.exe.config
+C:\Users\HP\source\repos\Assessment1_ADO.NET\bin\Debug\Assessment1_ADO.NET.exe
+C:\Users\HP\source\repos\Assessment1_ADO.NET\bin\Debug\Assessment1_ADO.NET.pdb
+C:\Users\HP\source\repos\Assessment1_ADO.NET\obj\Debug\Assessment1_ADO.NET.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Assessment1_ADO.NET\obj\Debug\Assessment1_ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Assessment1_ADO.NET\obj\Debug\Assessment1_ADO.NET.exe
+C:\Users\HP\source\repos\Assessment1_ADO.NET\obj\Debug\Assessment1_ADO.NET.pdb
